@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
     public Enemy enemy;
 
     //随机数发生器
-    private Random rand;
+    // private Random rand;
 
     //音乐播放
     public AudioClip BGM;
